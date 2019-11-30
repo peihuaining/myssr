@@ -1,0 +1,69 @@
+{
+  "random" : false,
+  "authPass" : null,
+  "useOnlinePac" : false,
+  "TTL" : 0,
+  "global" : false,
+  "reconnectTimes" : 3,
+  "index" : 0,
+  "proxyType" : 0,
+  "proxyHost" : null,
+  "authUser" : null,
+  "proxyAuthPass" : null,
+  "isDefault" : false,
+  "pacUrl" : null,
+  "configs" : [
+    {
+      "enable" : true,
+      "password" : "P314ADsl",
+      "method" : "aes-256-cfb",
+      "remarks" : "1",
+      "server" : "95.179.185.43",
+      "obfs" : "plain",
+      "protocol" : "origin",
+      "server_port" : 25565,
+      "remarks_base64" : "MQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "P314ADsl",
+      "method" : "aes-256-cfb",
+      "remarks" : "2",
+      "server" : "104.168.218.219",
+      "obfs" : "plain",
+      "protocol" : "origin",
+      "server_port" : 25555,
+      "remarks_base64" : "Mg=="
+    },
+    {
+      "enable" : true,
+      "password" : "P314ADsl",
+      "method" : "aes-256-cfb",
+      "remarks" : "3",
+      "server" : "66.42.41.143",
+      "obfs" : "plain",
+      "protocol" : "origin",
+      "server_port" : 1023,
+      "remarks_base64" : "Mw=="
+    },
+    {
+      "enable" : true,
+      "password" : "P314ADsl",
+      "method" : "aes-256-cfb",
+      "remarks" : "4",
+      "server" : "108.61.183.100",
+      "obfs" : "plain",
+      "protocol" : "origin",
+      "server_port" : 1023,
+      "remarks_base64" : "NA=="
+    }
+  ],
+  "proxyPort" : 0,
+  "randomAlgorithm" : 0,
+  "proxyEnable" : false,
+  "enabled" : true,
+  "autoban" : false,
+  "proxyAuthUser" : null,
+  "shareOverLan" : false,
+  "localPort" : 1080
+}

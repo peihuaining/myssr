@@ -1,0 +1,21 @@
+{
+    "server": "0.0.0.0",
+    "server_ipv6": "::",
+    "server_port": 1023,
+    "local_address": "127.0.0.1",
+    "local_port": 1081,
+    "password": "P314ADsl",
+    "timeout": 120,
+    "udp_timeout": 60,
+    "method": "ChaCha20-Poly1305",
+    "protocol": "auth_sha1_v4_compatible",
+    "protocol_param": "",
+    "obfs": "http_simple_compatible",
+    "obfs_param": "",
+    "dns_ipv6": false,
+    "connect_verbose_info": 1,
+    "redirect": "",
+    "fast_open": false,
+    "workers": 1
+
+}
